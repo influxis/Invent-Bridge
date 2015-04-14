@@ -9,7 +9,7 @@ Arduino UI (http://www.arduino.cc/ - See Download Section)
 
 USB Cable from Arduino to Computer
 
-iotbridge.zip ( http://devoffice.influxis.com:41245/public/jerry/iotbridge.zip )
+iotbridge.zip ( Available to download within the "release" tab )
 
 Instructions:
 
