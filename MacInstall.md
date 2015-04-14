@@ -9,7 +9,7 @@ Arduino UI (http://www.arduino.cc/ - See Download Section)
 
 USB Cable from Arduino to Computer
 
-iotbridge.zip ( Available to download within the "release" tab )
+iotbridge-mac-v0.1.zip ( Available to download within the "release" tab )
 
 Instructions:
 
