@@ -12,7 +12,7 @@ Arduino UI (http://www.arduino.cc/ - See Download Section)
 
 USB Cable from Arduino to Computer
 
-iotbridgewin.zip ( Available to download within the "release" tab )
+iotbridge-win32-v0.1.zip ( Available to download within the "release" tab )
 
 Instructions:
 
