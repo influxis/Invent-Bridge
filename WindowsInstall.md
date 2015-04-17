@@ -38,6 +38,16 @@ Navigate into a folder called “data” within the iotBridge folder root and op
 
 Enter the details of your account and project in the config files respective tags.
 
+- your_user_name = Invent Platform username
+
+- your_project_name = Name of the project created on the IoT page
+
+- your_device_password = The password you set for the project
+
+- your_device_name = The device name by default is “arduino”
+
+- port = The serial USB port the Arduino is connected to
+
 Open Command Prompt and navigate to the iotBridge directory.
 
 Run the file named iotbridge by typing:  iotbridge --debug (if you dont want to see the connection logs just leave out --debug from the command)
